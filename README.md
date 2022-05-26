@@ -1,1 +1,1 @@
-# praktikum-ims_3-MDI
+# praktikum-ims-3-MDI
